@@ -14,23 +14,22 @@ export function Projects() {
     title: "Rental Management Application",
     description:
       "A responsive rental management system enabling property listings, tenant management, and streamlined rental workflows with a focus on usability and performance.",
-    image: "/src/assets/image.png",
+    image: "../assets/image.png",
     tech: ["React", "JavaScript (ES6+)", "Material-UI", "REST APIs"],
-    github: "https://github.com",
-    demo: "https://demo.com",
+
   },
   {
     title: "SaaS Analytics Dashboard",
     description:
       "Real-time analytics dashboard featuring interactive data visualizations, charts, and performance metrics for business insights and decision-making.",
-    image: "/src/assets/saas1.png",
+    image: "../assets/saas1.png",
     tech: ["React", "TypeScript", "Redux Toolkit", "Chart.js"],
   },
   {
     title: "Project Management System",
     description:
       "Collaborative project management platform with task tracking, kanban boards, and team workflows designed for productivity and scalability.",
-    image: "/src/assets/PM Tool.png",
+    image: "../assets/PM Tool.png",
     tech: ["React", "TypeScript", "DnD Kit", "Zustand"], 
   },
 ];
